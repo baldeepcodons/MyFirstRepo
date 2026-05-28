@@ -1,0 +1,12 @@
+div{
+  color: chocolate;
+  background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    align-self: baseline;
+}
